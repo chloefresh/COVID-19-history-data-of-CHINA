@@ -20,7 +20,7 @@ The dataset is crawled from the website of Chinese CDC http://2019ncov.chinacdc.
 | new_dead.csv  | 新增死亡病例  |
 
 ## A Spider Wrote With Python3
-`main.py` is the spider, you can set your own time range just by updating the following codes:
+`Crawl_CDC.py` is the spider, you can set your own time range just by updating the following codes:
 
 ```
 
