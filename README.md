@@ -4,10 +4,10 @@ This project consists of the COVID-2019 confirmed,suspected and dead cases of 31
 The dataset is crawled from the website of Chinese CDC http://2019ncov.chinacdc.cn/2019-nCoV/ and is updated from 2020-01-16 to now.
 
 
-本项目可以crawl中国31个省和直辖市的每日新冠肺炎**新增确诊**、**疑似**和**死亡**病例，和**累计**病例。爬取网站为中国疾控中心建立的新冠肺炎实时平台。
+本项目可以收集中国31个省和直辖市的每日新冠肺炎**新增确诊**、**疑似**和**死亡**病例，和**累计**病例。爬取网站为中国疾控中心ChinaCDC建立的新冠肺炎实时平台。
 
 
-项目的**初衷**是丁香园来源的数据不含疑似病例，该项目填补了这一空白，且数据具有一定的权威性。由于本人代码水平有限，一些功能的实现并不尽人意，所以，欢迎大家修改补充，非常乐意和大家交流！
+项目的**初衷**是丁香园来源的数据不含疑似病例，不含新增确诊病例，该项目填补了这一空白，且数据来源官方，具有权威性。
 
 ## Including Some Data Files(.csv)
 
