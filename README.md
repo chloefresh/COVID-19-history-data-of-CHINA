@@ -1,4 +1,4 @@
-# COVID-2019-situation-reports
+# COVID-19-history-data-of-31-provinces-in-China
 This project consists of the COVID-2019 confirmed,suspected and dead cases of 31-situations in China mainland.  
 
 The dataset is crawled from the website of Chinese CDC http://2019ncov.chinacdc.cn/2019-nCoV/ and is updated from 2020-01-16 to now.
